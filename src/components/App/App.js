@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import CheckboxWithLabel from "../CheckboxWithLabel/CheckboxWithLabel";
 
 class App extends Component {
   render() {
@@ -10,6 +11,8 @@ class App extends Component {
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
+            <br/><br/>
+            <CheckboxWithLabel labelOn={"On"} labelOff={"Off"}/>
         </p>
       </div>
     );
