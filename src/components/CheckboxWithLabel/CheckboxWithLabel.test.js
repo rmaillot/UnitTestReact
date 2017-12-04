@@ -1,3 +1,6 @@
+/*
+Test d'integration
+ */
 import React from 'react';
 import {shallow} from 'enzyme';
 import CheckboxWithLabel from './CheckboxWithLabel';

@@ -8,6 +8,7 @@
     "enzyme-adapter-react-15": "^1.0.5",
     "enzyme-adapter-react-16": "^1.1.0",
     "jest": "^21.2.1",
+    "jest-cli": "^21.2.1",
     "jest-enzyme": "^4.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
